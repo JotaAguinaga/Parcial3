@@ -3,19 +3,50 @@
   "WorkspaceRootPath": "D:\\GitHUB\\Parcial3\\BibliotecaClases\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8E987BC-A969-4F25-8342-DF431502001E}|BibliotecaClases.csproj|d:\\github\\parcial3\\bibliotecaclases\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8E987BC-A969-4F25-8342-DF431502001E}|BibliotecaClases.csproj|solutionrelative:data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8E987BC-A969-4F25-8342-DF431502001E}|BibliotecaClases.csproj|d:\\github\\parcial3\\bibliotecaclases\\repos\\clienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E987BC-A969-4F25-8342-DF431502001E}|BibliotecaClases.csproj|solutionrelative:repos\\clienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8E987BC-A969-4F25-8342-DF431502001E}|BibliotecaClases.csproj|d:\\github\\parcial3\\bibliotecaclases\\models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8E987BC-A969-4F25-8342-DF431502001E}|BibliotecaClases.csproj|solutionrelative:models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8E987BC-A969-4F25-8342-DF431502001E}|BibliotecaClases.csproj|d:\\github\\parcial3\\bibliotecaclases\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E987BC-A969-4F25-8342-DF431502001E}|BibliotecaClases.csproj|solutionrelative:models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7333B84-B3E2-4AFB-8AEB-3B9497EA3D50}|..\\Program\\Program.csproj|d:\\github\\parcial3\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7333B84-B3E2-4AFB-8AEB-3B9497EA3D50}|..\\Program\\Aplicacion de consola.csproj|d:\\github\\parcial3\\program\\aplicacion de consola.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E987BC-A969-4F25-8342-DF431502001E}|BibliotecaClases.csproj|d:\\github\\parcial3\\bibliotecaclases\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E987BC-A969-4F25-8342-DF431502001E}|BibliotecaClases.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E987BC-A969-4F25-8342-DF431502001E}|BibliotecaClases.csproj|d:\\github\\parcial3\\bibliotecaclases\\repos\\detalleventarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E987BC-A969-4F25-8342-DF431502001E}|BibliotecaClases.csproj|solutionrelative:repos\\detalleventarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E987BC-A969-4F25-8342-DF431502001E}|BibliotecaClases.csproj|d:\\github\\parcial3\\bibliotecaclases\\repos\\ventarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E987BC-A969-4F25-8342-DF431502001E}|BibliotecaClases.csproj|solutionrelative:repos\\ventarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E987BC-A969-4F25-8342-DF431502001E}|BibliotecaClases.csproj|d:\\github\\parcial3\\bibliotecaclases\\repos\\productorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E987BC-A969-4F25-8342-DF431502001E}|BibliotecaClases.csproj|solutionrelative:repos\\productorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E987BC-A969-4F25-8342-DF431502001E}|BibliotecaClases.csproj|d:\\github\\parcial3\\bibliotecaclases\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E987BC-A969-4F25-8342-DF431502001E}|BibliotecaClases.csproj|solutionrelative:data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8E987BC-A969-4F25-8342-DF431502001E}|BibliotecaClases.csproj|d:\\github\\parcial3\\bibliotecaclases\\bibliotecaclases.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E8E987BC-A969-4F25-8342-DF431502001E}|BibliotecaClases.csproj|solutionrelative:bibliotecaclases.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7333B84-B3E2-4AFB-8AEB-3B9497EA3D50}|..\\Program\\Program.csproj|d:\\github\\parcial3\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8E987BC-A969-4F25-8342-DF431502001E}|BibliotecaClases.csproj|d:\\github\\parcial3\\bibliotecaclases\\models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E987BC-A969-4F25-8342-DF431502001E}|BibliotecaClases.csproj|solutionrelative:models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E987BC-A969-4F25-8342-DF431502001E}|BibliotecaClases.csproj|d:\\github\\parcial3\\bibliotecaclases\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E987BC-A969-4F25-8342-DF431502001E}|BibliotecaClases.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,34 +56,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AplicationDbContext.cs",
-              "DocumentMoniker": "D:\\GitHUB\\Parcial3\\BibliotecaClases\\Data\\AplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AplicationDbContext.cs",
-              "ToolTip": "D:\\GitHUB\\Parcial3\\BibliotecaClases\\Data\\AplicationDbContext.cs",
-              "RelativeToolTip": "Data\\AplicationDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T18:57:12.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BibliotecaClases",
-              "DocumentMoniker": "D:\\GitHUB\\Parcial3\\BibliotecaClases\\BibliotecaClases.csproj",
-              "RelativeDocumentMoniker": "BibliotecaClases.csproj",
-              "ToolTip": "D:\\GitHUB\\Parcial3\\BibliotecaClases\\BibliotecaClases.csproj",
-              "RelativeToolTip": "BibliotecaClases.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-05T18:49:39.918Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
@@ -63,28 +68,158 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\GitHUB\\Parcial3\\BibliotecaClases\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "D:\\GitHUB\\Parcial3\\BibliotecaClases\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:30:30.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteRepositorio.cs",
+              "DocumentMoniker": "D:\\GitHUB\\Parcial3\\BibliotecaClases\\Repos\\ClienteRepositorio.cs",
+              "RelativeDocumentMoniker": "Repos\\ClienteRepositorio.cs",
+              "ToolTip": "D:\\GitHUB\\Parcial3\\BibliotecaClases\\Repos\\ClienteRepositorio.cs",
+              "RelativeToolTip": "Repos\\ClienteRepositorio.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBsAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:59:12.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetalleVentaRepositorio.cs",
+              "DocumentMoniker": "D:\\GitHUB\\Parcial3\\BibliotecaClases\\Repos\\DetalleVentaRepositorio.cs",
+              "RelativeDocumentMoniker": "Repos\\DetalleVentaRepositorio.cs",
+              "ToolTip": "D:\\GitHUB\\Parcial3\\BibliotecaClases\\Repos\\DetalleVentaRepositorio.cs",
+              "RelativeToolTip": "Repos\\DetalleVentaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:49:19.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VentaRepositorio.cs",
+              "DocumentMoniker": "D:\\GitHUB\\Parcial3\\BibliotecaClases\\Repos\\VentaRepositorio.cs",
+              "RelativeDocumentMoniker": "Repos\\VentaRepositorio.cs",
+              "ToolTip": "D:\\GitHUB\\Parcial3\\BibliotecaClases\\Repos\\VentaRepositorio.cs",
+              "RelativeToolTip": "Repos\\VentaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T23:02:03.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "D:\\GitHUB\\Parcial3\\BibliotecaClases\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "Models\\Venta.cs",
+              "ToolTip": "D:\\GitHUB\\Parcial3\\BibliotecaClases\\Models\\Venta.cs",
+              "RelativeToolTip": "Models\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:30:58.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Aplicacion de consola.csproj",
+              "DocumentMoniker": "D:\\GitHUB\\Parcial3\\Program\\Aplicacion de consola.csproj",
+              "RelativeDocumentMoniker": "..\\Program\\Aplicacion de consola.csproj",
+              "ToolTip": "D:\\GitHUB\\Parcial3\\Program\\Aplicacion de consola.csproj",
+              "RelativeToolTip": "..\\Program\\Aplicacion de consola.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-05T22:24:07.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\GitHUB\\Parcial3\\Program\\Program.cs",
               "RelativeDocumentMoniker": "..\\Program\\Program.cs",
               "ToolTip": "D:\\GitHUB\\Parcial3\\Program\\Program.cs",
               "RelativeToolTip": "..\\Program\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAHwAAAAAAAAAAAA0wGkAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T18:47:08.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\GitHUB\\Parcial3\\BibliotecaClases\\Models\\Class1.cs",
-              "RelativeDocumentMoniker": "Models\\Class1.cs",
-              "ToolTip": "D:\\GitHUB\\Parcial3\\BibliotecaClases\\Models\\Class1.cs",
-              "RelativeToolTip": "Models\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "ProductoRepositorio.cs",
+              "DocumentMoniker": "D:\\GitHUB\\Parcial3\\BibliotecaClases\\Repos\\ProductoRepositorio.cs",
+              "RelativeDocumentMoniker": "Repos\\ProductoRepositorio.cs",
+              "ToolTip": "D:\\GitHUB\\Parcial3\\BibliotecaClases\\Repos\\ProductoRepositorio.cs",
+              "RelativeToolTip": "Repos\\ProductoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T23:00:56.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AplicationDbContext.cs",
+              "DocumentMoniker": "D:\\GitHUB\\Parcial3\\BibliotecaClases\\Data\\AplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AplicationDbContext.cs",
+              "ToolTip": "D:\\GitHUB\\Parcial3\\BibliotecaClases\\Data\\AplicationDbContext.cs",
+              "RelativeToolTip": "Data\\AplicationDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA2wBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:57:12.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BibliotecaClases.csproj",
+              "DocumentMoniker": "D:\\GitHUB\\Parcial3\\BibliotecaClases\\BibliotecaClases.csproj",
+              "RelativeDocumentMoniker": "BibliotecaClases.csproj",
+              "ToolTip": "D:\\GitHUB\\Parcial3\\BibliotecaClases\\BibliotecaClases.csproj",
+              "RelativeToolTip": "BibliotecaClases.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-05T18:49:39.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\GitHUB\\Parcial3\\BibliotecaClases\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "D:\\GitHUB\\Parcial3\\BibliotecaClases\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T18:46:29.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DetalleVenta.cs",
+              "DocumentMoniker": "D:\\GitHUB\\Parcial3\\BibliotecaClases\\Models\\DetalleVenta.cs",
+              "RelativeDocumentMoniker": "Models\\DetalleVenta.cs",
+              "ToolTip": "D:\\GitHUB\\Parcial3\\BibliotecaClases\\Models\\DetalleVenta.cs",
+              "RelativeToolTip": "Models\\DetalleVenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:31:22.256Z",
               "EditorCaption": ""
             }
           ]

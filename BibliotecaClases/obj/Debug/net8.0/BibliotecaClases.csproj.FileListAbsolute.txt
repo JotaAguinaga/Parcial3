@@ -1,0 +1,15 @@
+D:\GitHUB\Parcial3\BibliotecaClases\obj\Debug\net8.0\BibliotecaClases.csproj.AssemblyReference.cache
+D:\GitHUB\Parcial3\BibliotecaClases\obj\Debug\net8.0\BibliotecaClases.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHUB\Parcial3\BibliotecaClases\obj\Debug\net8.0\BibliotecaClases.AssemblyInfoInputs.cache
+D:\GitHUB\Parcial3\BibliotecaClases\obj\Debug\net8.0\BibliotecaClases.AssemblyInfo.cs
+D:\GitHUB\Parcial3\BibliotecaClases\obj\Debug\net8.0\BibliotecaClases.csproj.CoreCompileInputs.cache
+D:\GitHUB\Parcial3\BibliotecaClases\obj\Debug\net8.0\BibliotecaClases.sourcelink.json
+D:\GitHUB\Parcial3\BibliotecaClases\bin\Debug\net8.0\BibliotecaClases.deps.json
+D:\GitHUB\Parcial3\BibliotecaClases\bin\Debug\net8.0\BibliotecaClases.runtimeconfig.json
+D:\GitHUB\Parcial3\BibliotecaClases\bin\Debug\net8.0\BibliotecaClases.dll
+D:\GitHUB\Parcial3\BibliotecaClases\bin\Debug\net8.0\BibliotecaClases.pdb
+D:\GitHUB\Parcial3\BibliotecaClases\obj\Debug\net8.0\BibliotecaClases.dll
+D:\GitHUB\Parcial3\BibliotecaClases\obj\Debug\net8.0\refint\BibliotecaClases.dll
+D:\GitHUB\Parcial3\BibliotecaClases\obj\Debug\net8.0\BibliotecaClases.pdb
+D:\GitHUB\Parcial3\BibliotecaClases\obj\Debug\net8.0\BibliotecaClases.genruntimeconfig.cache
+D:\GitHUB\Parcial3\BibliotecaClases\obj\Debug\net8.0\ref\BibliotecaClases.dll

@@ -1,0 +1,73 @@
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Aplicacion de consola.exe
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Aplicacion de consola.deps.json
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Aplicacion de consola.runtimeconfig.json
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Aplicacion de consola.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Aplicacion de consola.pdb
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Azure.Core.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Azure.Identity.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\System.ClientModel.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\System.Memory.Data.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\System.Text.Json.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\BibliotecaClases.dll
+D:\GitHUB\Parcial3\Program\bin\Debug\net8.0\BibliotecaClases.pdb
+D:\GitHUB\Parcial3\Program\obj\Debug\net8.0\Aplicacion de consola.csproj.AssemblyReference.cache
+D:\GitHUB\Parcial3\Program\obj\Debug\net8.0\Aplicacion de consola.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHUB\Parcial3\Program\obj\Debug\net8.0\Aplicacion de consola.AssemblyInfoInputs.cache
+D:\GitHUB\Parcial3\Program\obj\Debug\net8.0\Aplicacion de consola.AssemblyInfo.cs
+D:\GitHUB\Parcial3\Program\obj\Debug\net8.0\Aplicacion de consola.csproj.CoreCompileInputs.cache
+D:\GitHUB\Parcial3\Program\obj\Debug\net8.0\Aplicacion de consola.sourcelink.json
+D:\GitHUB\Parcial3\Program\obj\Debug\net8.0\Aplicaci.BD89B6C6.Up2Date
+D:\GitHUB\Parcial3\Program\obj\Debug\net8.0\Aplicacion de consola.dll
+D:\GitHUB\Parcial3\Program\obj\Debug\net8.0\refint\Aplicacion de consola.dll
+D:\GitHUB\Parcial3\Program\obj\Debug\net8.0\Aplicacion de consola.pdb
+D:\GitHUB\Parcial3\Program\obj\Debug\net8.0\Aplicacion de consola.genruntimeconfig.cache
+D:\GitHUB\Parcial3\Program\obj\Debug\net8.0\ref\Aplicacion de consola.dll
